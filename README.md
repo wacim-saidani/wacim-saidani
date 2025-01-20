@@ -48,6 +48,9 @@ BLOG-POST-LIST:END
       <td align="center" style="border: none;">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=argocd" alt="ArgoCD" width="50" height="50"/><br>ArgoCD
       </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab CI/CD" width="50" height="50"/><br>GitLab CI/CD 
+      </td>
 <!--     </tr>
   </tbody>
 </table>
